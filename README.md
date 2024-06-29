@@ -4,8 +4,7 @@
 
 The Bouncing Ball Game is a simple mobile game developed using the Sun Java (TM) Wireless Toolkit 2.5.2. In this game, a ball bounces off the walls of the screen, changing direction each time it hits a boundary. The game uses the `GameCanvas` class to manage the ball's movement and collision detection. This document provides an overview of the project, including setup instructions, code details, and screenshots of the application in action.
 
-<img src="./assets/image/BouncingBall_1.png" alt="Intro Screen 1" width="150"/>
-<img src="./assets/image/BouncingBall_2.png" alt="Intro Screen 2" width="150"/>
+<img src="./assets/image/BouncingBall.png" alt="Intro Screen" width="500"/>
 
 ## Requirements
 
